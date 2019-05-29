@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountDownTimer</string>
+    <string name="countdown_update_text">Progress is %s</string>
+    <string name="button_text">Start</string>
+    <string name="button_progress_text">Running</string>
+    <string name="countdown_finished_text">Countdown completed</string>
+</resources>
